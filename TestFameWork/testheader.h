@@ -3,6 +3,6 @@
 class mycls
 {
 public:
-	
+	void callFN();
 	
 };
