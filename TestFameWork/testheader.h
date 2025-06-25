@@ -2,7 +2,6 @@
 
 class mycls
 {
-public:
 	
 	
 };
